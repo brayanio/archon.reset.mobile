@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.center .race{
+    margin: 0 auto;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.align{
+    align-items: center;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}

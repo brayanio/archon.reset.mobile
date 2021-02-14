@@ -1,0 +1,11 @@
+.ani-death{
+    animation: death 2s forwards;
+}
+@keyframes death{
+    0%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0.3;
+    }
+}

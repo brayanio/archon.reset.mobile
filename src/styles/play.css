@@ -1,0 +1,11 @@
+.play-player .input-label{
+    margin: 0;
+}
+
+.play-monster{
+    display: inline-block;
+}
+
+.play-monster .input-label{
+    margin: 0;
+}
